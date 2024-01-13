@@ -4,7 +4,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ...     if "hello" in user_input:
 ...         return "Hi there! How can I assist you?"
 ...     elif "how are you" in user_input:
-...         return "fine n you ??"
+...         return "fine n you and ??"
 ...     elif "bye" in user_input:
 ...         return "Goodbye! Have a great day!"
 ...     elif "thanks" in user_input:
